@@ -1,6 +1,7 @@
 # Hi, I'm Liwei Ji 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=111111&lines=UI%2FUX+Designer;AI+Developer;Building+Human-centered+AI+Products)
+🎨 UI/UX Designer 
+🤖 AI Developer
 
 I design thoughtful digital experiences 
 and build intelligent systems that make technology more human.
