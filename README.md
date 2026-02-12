@@ -1,14 +1,14 @@
-# Hi, I'm LiＷei Ji 👋
+# Hi, I'm LiWei Ji 👋
 
-🎨 UI/UX Designer
+🎨 UI/UX Designer 
 🤖 AI Developer
 
-I design thoughtful digital experiences
+I design thoughtful digital experiences  
 and build intelligent systems that make technology more human.
 
 💡 Where design thinking meets AI engineering.
 
-🧠 Focused on AI applications, LLM-powered products, and practical innovation
+🧠 Focused on AI applications, LLM-powered products, and practical innovation  
 🤝 Open to collaboration with builders, designers, and developers
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://liwei-ji.github.io)
