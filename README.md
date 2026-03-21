@@ -12,7 +12,7 @@ and build intelligent systems that make technology more human.
 🤝 Open to collaboration with builders, designers, and developers
 
 # Projects
-- **[DISE AI Agent](https://liwei-ji.github.io/DISE-AI/)** - DISE AI is a medical AI agent combining U-Net based image recognition, LLMs and retrieval augmented generation RAG.
+- **[DISE AI Agent](https://liwei-ji.github.io/DISE-AI/)** - DISE AI is a medical AI agent using U-Net, LLMs, and RAG.
 - **[Input UX](https://liwei-ji.github.io/ai-agent-input/)** - Guides users on how to interact with the AI model.
 
 
