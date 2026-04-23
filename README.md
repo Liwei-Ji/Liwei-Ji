@@ -1,20 +1,22 @@
 # Hi, I'm Liwei Ji 👋
 
-🎨 UI/UX Designer 
-🤖 AI Developer
+UI/UX Designer 
+AI Developer
 
 I design thoughtful digital experiences 
 and build intelligent systems that make technology more human.
 
 💡 Where design thinking meets AI engineering.
 
-🧠 Focused on AI applications, LLM-powered products, and practical innovation  
-🤝 Open to collaboration with builders, designers, and developers
+I build AI applications and LLM-powered products with a focus on practical use.
+Open to collaborating with builders, designers, and developers.
 
 # Projects
-- **[DISE AI Agent](https://liwei-ji.github.io/DISE-AI/)** - DISE AI is a medical AI agent using U-Net, LLMs, and RAG.
+GMP-AI-Agent
+- **[Personal Website](https://liwei-ji.github.io/)** - My portfolio website showcasing projects and work.
+- **[DISE AI Agent](https://liwei-ji.github.io/DISE-AI/)** - DISE AI is a medical AI agent using U-Net,LLMs and RAG.
 - **[Input UX](https://liwei-ji.github.io/ai-agent-input/)** - Guides users on how to interact with the AI model.
-
+- **GMP-AI-Agent** - AI agent for GMP workflows.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Liwei--Ji-181717?style=for-the-badge&logo=github)](https://github.com/Liwei-Ji)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://liwei-ji.github.io) 
