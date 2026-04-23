@@ -16,7 +16,8 @@ GMP-AI-Agent
 - **[Personal Website](https://liwei-ji.github.io/)** - My portfolio website showcasing projects and work.
 - **[DISE AI Agent](https://liwei-ji.github.io/DISE-AI/)** - DISE AI is a medical AI agent using U-Net,LLMs and RAG.
 - **[Input UX](https://liwei-ji.github.io/ai-agent-input/)** - Guides users on how to interact with the AI model.
-- **GMP-AI-Agent** - AI agent for GMP workflows.
+- **GMP AI Agent** - AI agent for GMP workflows.
+- **[CarScapeAI Prompts](https://github.com/Liwei-Ji/carscapeai-prompts)** - Prompt design for AI automotive scene understanding.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Liwei--Ji-181717?style=for-the-badge&logo=github)](https://github.com/Liwei-Ji)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://liwei-ji.github.io) 
