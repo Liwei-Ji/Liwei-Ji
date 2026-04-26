@@ -17,6 +17,7 @@ Open to collaborating with builders, designers, and developers.
 - **[Input UX](https://liwei-ji.github.io/ai-agent-input/)** - Guides users on how to interact with the AI model.
 - **GMP AI Agent** - AI agent for GMP workflows.
 - **[CarScapeAI Prompts](https://github.com/Liwei-Ji/carscapeai-prompts)** - Prompt design for AI automotive scene understanding.
+- **[SkillPRD](https://github.com/Liwei-Ji/SkillPRD)** - AI prompt design for PRD generation and Jira automation.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Liwei--Ji-181717?style=for-the-badge&logo=github)](https://github.com/Liwei-Ji)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://liwei-ji.github.io) 
