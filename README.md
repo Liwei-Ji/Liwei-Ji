@@ -12,7 +12,6 @@ I build AI applications and LLM-powered products with a focus on practical use.
 Open to collaborating with builders, designers, and developers.
 
 # Projects
-GMP-AI-Agent
 - **[Personal Website](https://liwei-ji.github.io/)** - My portfolio website showcasing projects and work.
 - **[DISE AI Agent](https://liwei-ji.github.io/DISE-AI/)** - DISE AI is a medical AI agent using U-Net,LLMs and RAG.
 - **[Input UX](https://liwei-ji.github.io/ai-agent-input/)** - Guides users on how to interact with the AI model.
