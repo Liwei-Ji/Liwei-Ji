@@ -16,6 +16,7 @@ Open to collaborating with builders, designers, and developers.
 - **[DISE AI Agent](https://liwei-ji.github.io/DISE-AI/)** - DISE AI is a medical AI agent using U-Net,LLMs and RAG.
 - **[Input UX](https://liwei-ji.github.io/ai-agent-input/)** - Guides users on how to interact with the AI model.
 - **GMP AI Agent** - AI agent for GMP workflows.
+- **[agent-flow-studio](https://github.com/Liwei-Ji/agent-flow-studio)** - A visual workflow editor for building AI Agents and LLM pipelines.
 - **[CarScapeAI Prompts](https://github.com/Liwei-Ji/carscapeai-prompts)** - Prompt design for AI automotive scene understanding.
 - **[SkillPRD](https://github.com/Liwei-Ji/SkillPRD)** - AI prompt design for PRD generation and Jira automation.
 - **[progress-slides](https://github.com/Liwei-Ji/progress-slides)** - Prompt design for AI work data to HTML deck generation.
