@@ -1,6 +1,6 @@
 # Hi, I'm Liwei Ji 👋
 
-UI/UX Designer 
+UI/UX Designer
 AI Developer
 
 I design thoughtful digital experiences 
