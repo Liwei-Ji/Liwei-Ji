@@ -8,7 +8,7 @@ and build intelligent systems that make technology more human.
 
 💡 Where design thinking meets AI engineering.
 
-I build AI applications and LLM-powered products with a focus on practical use.
+I build AI applications and LLM powered products with a focus on practical use.
 Open to collaborating with builders, designers, and developers.
 
 # Projects
