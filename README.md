@@ -14,7 +14,7 @@ Open to collaborating with builders, designers, and developers.
 # Projects
 - **[Personal Website](https://liwei-ji.github.io/)** - My portfolio website showcasing projects and work.
 - **[DISE AI Agent](https://liwei-ji.github.io/DISE-AI/)** - DISE AI is a medical AI agent using U-Net,LLMs and RAG.
-- **DISE AI Research - Combining image segmentation and language models for explainable medical decision making
+- **DISE AI Research** - Combining image segmentation and language models for explainable medical decision making
 - **[Input UX](https://liwei-ji.github.io/ai-agent-input/)** - Guides users on how to interact with the AI model.
 - **GMP AI Agent** - AI agent for GMP workflows.
 - **[agent-flow-studio](https://github.com/Liwei-Ji/agent-flow-studio)** - A visual workflow editor for building AI Agents and LLM pipelines.
