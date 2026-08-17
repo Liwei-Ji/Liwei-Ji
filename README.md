@@ -17,8 +17,6 @@ Open to collaborating with builders, designers, and developers.
 
 ## Projects
 
----
-
 - [**DISE AI Agent**](https://liwei-ji.github.io/DISE-AI/) - DISE AI is a medical AI agent using U-Net, LLMs and RAG.
 - [**DISE AI Research**](https://github.com/Liwei-Ji/DISE-AI-Research) - Combining image segmentation and language models for explainable medical decision-making.
 - [**Input UX**](https://liwei-ji.github.io/ai-agent-input/) - Guides users on how to interact with the AI model.
